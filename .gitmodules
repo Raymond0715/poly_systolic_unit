@@ -1,0 +1,3 @@
+[submodule "systolic_array"]
+	path = systolic_array
+	url = git@github.com:Raymond0715/systolic_array.git
